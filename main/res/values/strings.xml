@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AdGlider</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="example_email">example@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="example_password">Example01234</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create account</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="this_is_an_ad_description">This is an ad</string>
+    <string name="ad_frag_message">THIS IS AN AD</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="app_title">Ad Glider</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="profile">Profile</string>
+    <string name="account_balance">Account balance:</string>
+</resources>

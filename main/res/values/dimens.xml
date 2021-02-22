@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="extra_small_distance">4dp</dimen>
+    <dimen name="small_distance">16dp</dimen>
+    <dimen name="medium_distance">32dp</dimen>
+    <dimen name="medium_to_large_distance">48dp</dimen>
+    <dimen name="large_distance">64dp</dimen>
+    <dimen name="extra_large_distance">100dp</dimen>
+
+    <dimen name="small_size">16sp</dimen>
+    <dimen name="medium_size">32sp</dimen>
+    <dimen name="large_size">64sp</dimen>
+</resources>
